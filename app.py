@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# v1.1 - Force rebuild
 
 import webbrowser
 import threading
