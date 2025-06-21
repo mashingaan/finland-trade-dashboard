@@ -1,0 +1,104 @@
+/* Скрытие брендинга Plotly, если он появится */
+.minimax-credit {
+    display: none !important;
+}
+
+.plotly-logo {
+    display: none !important;
+}
+
+/* Дополнительные стили для темной темы */
+.dash-graph {
+    background-color: transparent !important;
+}
+
+/* Улучшение читаемости в темной теме */
+.card {
+    background-color: #2b3e50 !important;
+    border: 1px solid #4a5d6b !important;
+}
+
+.card-body {
+    color: #ecf0f1 !important;
+}
+
+/* Стили для таблиц */
+.table {
+    color: #ecf0f1 !important;
+}
+
+.table thead th {
+    background-color: #34495e !important;
+    border-color: #4a5d6b !important;
+    color: #ecf0f1 !important;
+}
+
+.table tbody td {
+    border-color: #4a5d6b !important;
+}
+
+/* Стили для вкладок */
+.nav-tabs .nav-link {
+    color: #bdc3c7 !important;
+    border-color: #4a5d6b !important;
+}
+
+.nav-tabs .nav-link.active {
+    background-color: #34495e !important;
+    border-color: #4a5d6b !important;
+    color: #ecf0f1 !important;
+}
+
+/* Стили для радио-кнопок */
+.form-check-input:checked {
+    background-color: #3498db !important;
+    border-color: #3498db !important;
+}
+
+/* Стили для заголовков */
+h1, h2, h3, h4, h5, h6 {
+    color: #ecf0f1 !important;
+}
+
+/* Стили для текста */
+body {
+    color: #ecf0f1 !important;
+    background-color: #1a252f !important;
+}
+
+/* Стили для контейнера */
+.container-fluid {
+    background-color: #1a252f !important;
+}
+
+/* Стили для графиков */
+.js-plotly-plot {
+    background-color: transparent !important;
+}
+
+/* Стили для tooltip */
+.plotly-tooltip {
+    background-color: #34495e !important;
+    color: #ecf0f1 !important;
+    border: 1px solid #4a5d6b !important;
+}
+
+/* Стили для легенды */
+.legend {
+    background-color: rgba(52, 73, 94, 0.9) !important;
+    color: #ecf0f1 !important;
+}
+
+/* Стили для осей графиков */
+.xtick text, .ytick text {
+    fill: #ecf0f1 !important;
+}
+
+.axis-label {
+    fill: #ecf0f1 !important;
+}
+
+/* Стили для заголовков графиков */
+.gtitle {
+    fill: #ecf0f1 !important;
+} 

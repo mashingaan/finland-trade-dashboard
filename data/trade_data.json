@@ -1,0 +1,3914 @@
+{
+  "yearly_dynamics": [
+    {
+      "period": 2000,
+      "Импорт": 33886.398324,
+      "Экспорт": 45474.931205
+    },
+    {
+      "period": 2001,
+      "Импорт": 33267.927205,
+      "Экспорт": 44300.007656
+    },
+    {
+      "period": 2002,
+      "Импорт": 33440.047103,
+      "Экспорт": 44517.737796
+    },
+    {
+      "period": 2003,
+      "Импорт": 41593.248012,
+      "Экспорт": 52509.302928
+    },
+    {
+      "period": 2004,
+      "Импорт": 50678.021621,
+      "Экспорт": 60918.355272
+    },
+    {
+      "period": 2005,
+      "Импорт": 58472.542315,
+      "Экспорт": 65238.316371
+    },
+    {
+      "period": 2006,
+      "Импорт": 69427.442556,
+      "Экспорт": 77279.102952
+    },
+    {
+      "period": 2007,
+      "Импорт": 81576.271842,
+      "Экспорт": 89798.884873
+    },
+    {
+      "period": 2008,
+      "Импорт": 92189.842859,
+      "Экспорт": 96896.070496
+    },
+    {
+      "period": 2009,
+      "Импорт": 60830.316894999996,
+      "Экспорт": 62860.482532
+    },
+    {
+      "period": 2010,
+      "Импорт": 68767.143815,
+      "Экспорт": 70116.50148
+    },
+    {
+      "period": 2011,
+      "Импорт": 83861.658134,
+      "Экспорт": 78794.217997
+    },
+    {
+      "period": 2012,
+      "Импорт": 76089.021022,
+      "Экспорт": 72974.489133
+    },
+    {
+      "period": 2013,
+      "Импорт": 77587.001762,
+      "Экспорт": 74445.385621
+    },
+    {
+      "period": 2014,
+      "Импорт": 76773.254652,
+      "Экспорт": 74338.83352
+    },
+    {
+      "period": 2015,
+      "Импорт": 60174.38776,
+      "Экспорт": 59682.311194
+    },
+    {
+      "period": 2016,
+      "Импорт": 60501.949556,
+      "Экспорт": 57325.871713
+    },
+    {
+      "period": 2017,
+      "Импорт": 140200.639749947,
+      "Экспорт": 134561.281696657
+    },
+    {
+      "period": 2018,
+      "Импорт": 156704.322823191,
+      "Экспорт": 150516.580919634
+    },
+    {
+      "period": 2019,
+      "Импорт": 73719.85701936,
+      "Экспорт": 72839.176013295
+    },
+    {
+      "period": 2020,
+      "Импорт": 68266.522010111,
+      "Экспорт": 65606.975840154
+    },
+    {
+      "period": 2021,
+      "Импорт": 86263.574423996,
+      "Экспорт": 81500.265209295
+    },
+    {
+      "period": 2022,
+      "Импорт": 97374.45318475801,
+      "Экспорт": 86228.240180758
+    },
+    {
+      "period": 2023,
+      "Импорт": 83093.614764363,
+      "Экспорт": 82567.752672814
+    }
+  ],
+  "top_commodities_export": [
+    {
+      "cmdCode": 85,
+      "commodity_name": "Электрические машины и оборудование, аудио- и видеотехника",
+      "trade_value_mln_usd": 244369.586105026
+    },
+    {
+      "cmdCode": 84,
+      "commodity_name": "Ядерные реакторы, котлы, оборудование и механические устройства",
+      "trade_value_mln_usd": 237027.614696449
+    },
+    {
+      "cmdCode": 48,
+      "commodity_name": "Бумага и картон; изделия из бумажной массы",
+      "trade_value_mln_usd": 232746.05785595
+    },
+    {
+      "cmdCode": 27,
+      "commodity_name": "Минеральные топлива, масла и продукты их перегонки",
+      "trade_value_mln_usd": 135026.856368386
+    },
+    {
+      "cmdCode": 72,
+      "commodity_name": "Чёрные металлы",
+      "trade_value_mln_usd": 114661.05451027
+    },
+    {
+      "cmdCode": 87,
+      "commodity_name": "Наземные транспортные средства, кроме Ж/Д",
+      "trade_value_mln_usd": 94855.99591702501
+    },
+    {
+      "cmdCode": 44,
+      "commodity_name": "Древесина и изделия из древесины; древесный уголь",
+      "trade_value_mln_usd": 80074.760130814
+    },
+    {
+      "cmdCode": 90,
+      "commodity_name": "Оптические, фотографические, измерительные, медицинские и др. приборы",
+      "trade_value_mln_usd": 65674.842351667
+    },
+    {
+      "cmdCode": 39,
+      "commodity_name": "Пластмассы и изделия из них",
+      "trade_value_mln_usd": 58510.423029924
+    },
+    {
+      "cmdCode": 47,
+      "commodity_name": "Целлюлоза, отходы бумаги и картона",
+      "trade_value_mln_usd": 49763.263594174
+    }
+  ],
+  "top_commodities_import": [
+    {
+      "cmdCode": 27,
+      "commodity_name": "Минеральные топлива, масла и продукты их перегонки",
+      "trade_value_mln_usd": 280614.025163288
+    },
+    {
+      "cmdCode": 84,
+      "commodity_name": "Ядерные реакторы, котлы, оборудование и механические устройства",
+      "trade_value_mln_usd": 210192.359851326
+    },
+    {
+      "cmdCode": 85,
+      "commodity_name": "Электрические машины и оборудование, аудио- и видеотехника",
+      "trade_value_mln_usd": 202610.81578934
+    },
+    {
+      "cmdCode": 87,
+      "commodity_name": "Наземные транспортные средства, кроме Ж/Д",
+      "trade_value_mln_usd": 144099.897300609
+    },
+    {
+      "cmdCode": 72,
+      "commodity_name": "Чёрные металлы",
+      "trade_value_mln_usd": 67570.354230865
+    },
+    {
+      "cmdCode": 99,
+      "commodity_name": "Резерв (для возможного будущего использования)",
+      "trade_value_mln_usd": 58408.416334219
+    },
+    {
+      "cmdCode": 39,
+      "commodity_name": "Пластмассы и изделия из них",
+      "trade_value_mln_usd": 58103.338987106
+    },
+    {
+      "cmdCode": 30,
+      "commodity_name": "Фармацевтическая продукция",
+      "trade_value_mln_usd": 52971.597480593
+    },
+    {
+      "cmdCode": 26,
+      "commodity_name": "Руды, шлак и зола",
+      "trade_value_mln_usd": 51617.848329028
+    },
+    {
+      "cmdCode": 90,
+      "commodity_name": "Оптические, фотографические, измерительные, медицинские и др. приборы",
+      "trade_value_mln_usd": 44494.209192988
+    }
+  ],
+  "sector_structure": [
+    {
+      "commodity_sector": "Военно-промышленный комплекс",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 1736.419014355
+    },
+    {
+      "commodity_sector": "Военно-промышленный комплекс",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 2238.828374982
+    },
+    {
+      "commodity_sector": "Искусство и антиквариат",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 253.131166539
+    },
+    {
+      "commodity_sector": "Искусство и антиквариат",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 162.177977626
+    },
+    {
+      "commodity_sector": "Кожевенная и деревообрабатывающая промышленность",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 38950.610288298
+    },
+    {
+      "commodity_sector": "Кожевенная и деревообрабатывающая промышленность",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 94220.894946572
+    },
+    {
+      "commodity_sector": "Машиностроение и электроника",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 579753.571137578
+    },
+    {
+      "commodity_sector": "Машиностроение и электроника",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 620426.51256412
+    },
+    {
+      "commodity_sector": "Металлургия и металлообработка",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 177270.534256845
+    },
+    {
+      "commodity_sector": "Металлургия и металлообработка",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 244186.165607122
+    },
+    {
+      "commodity_sector": "Минеральные материалы и изделия из них",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 19923.036519643
+    },
+    {
+      "commodity_sector": "Минеральные материалы и изделия из них",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 31342.10689752
+    },
+    {
+      "commodity_sector": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 216.181359826
+    },
+    {
+      "commodity_sector": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 16.162281356999998
+    },
+    {
+      "commodity_sector": "Пластмассы, резина и изделия из них",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 76527.021684115
+    },
+    {
+      "commodity_sector": "Пластмассы, резина и изделия из них",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 72412.990408716
+    },
+    {
+      "commodity_sector": "Приборостроение и высокие технологии",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 46820.725704174
+    },
+    {
+      "commodity_sector": "Приборостроение и высокие технологии",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 66266.265659875
+    },
+    {
+      "commodity_sector": "Промтовары и мебель",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 40105.937638802
+    },
+    {
+      "commodity_sector": "Промтовары и мебель",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 19782.489694589
+    },
+    {
+      "commodity_sector": "Прочее",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 58408.416334219
+    },
+    {
+      "commodity_sector": "Прочее",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 27995.104891502
+    },
+    {
+      "commodity_sector": "Сельское хозяйство и пищевая промышленность",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 131296.816461001
+    },
+    {
+      "commodity_sector": "Сельское хозяйство и пищевая промышленность",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 44157.088431373
+    },
+    {
+      "commodity_sector": "Строительные материалы и сырьё",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 61756.991086579
+    },
+    {
+      "commodity_sector": "Строительные материалы и сырьё",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 11586.816751119999
+    },
+    {
+      "commodity_sector": "Текстильная и швейная промышленность",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 66221.634250685
+    },
+    {
+      "commodity_sector": "Текстильная и швейная промышленность",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 21102.741128887
+    },
+    {
+      "commodity_sector": "Топливно-энергетический комплекс",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 280614.025163288
+    },
+    {
+      "commodity_sector": "Топливно-энергетический комплекс",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 135026.856368386
+    },
+    {
+      "commodity_sector": "Химическая промышленность",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 156809.494514078
+    },
+    {
+      "commodity_sector": "Химическая промышленность",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 122483.534571857
+    },
+    {
+      "commodity_sector": "Целлюлозно-бумажная промышленность",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 28074.912828701
+    },
+    {
+      "commodity_sector": "Целлюлозно-бумажная промышленность",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 287884.338716003
+    }
+  ],
+  "geography_data": [
+    {
+      "partnerCode": 4,
+      "country_name": "Страна 4",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 182.165060804
+    },
+    {
+      "partnerCode": 4,
+      "country_name": "Страна 4",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 55.604989134
+    },
+    {
+      "partnerCode": 8,
+      "country_name": "Страна 8",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 36.942964362
+    },
+    {
+      "partnerCode": 8,
+      "country_name": "Страна 8",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 130.109534477
+    },
+    {
+      "partnerCode": 10,
+      "country_name": "Страна 10",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.53461129
+    },
+    {
+      "partnerCode": 10,
+      "country_name": "Страна 10",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 0.5138066069999991
+    },
+    {
+      "partnerCode": 12,
+      "country_name": "Страна 12",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 612.37675167
+    },
+    {
+      "partnerCode": 12,
+      "country_name": "Страна 12",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 4095.414035465
+    },
+    {
+      "partnerCode": 16,
+      "country_name": "Страна 16",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.5411439319999984
+    },
+    {
+      "partnerCode": 16,
+      "country_name": "Страна 16",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 0.087268108
+    },
+    {
+      "partnerCode": 20,
+      "country_name": "Страна 20",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 30.463401838
+    },
+    {
+      "partnerCode": 20,
+      "country_name": "Страна 20",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 10.737098293999997
+    },
+    {
+      "partnerCode": 24,
+      "country_name": "Страна 24",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 45.463657696
+    },
+    {
+      "partnerCode": 24,
+      "country_name": "Страна 24",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 279.26119774
+    },
+    {
+      "partnerCode": 28,
+      "country_name": "Страна 28",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 2.904637119
+    },
+    {
+      "partnerCode": 28,
+      "country_name": "Страна 28",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 112.165122138
+    },
+    {
+      "partnerCode": 31,
+      "country_name": "Страна 31",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 55.038110098
+    },
+    {
+      "partnerCode": 31,
+      "country_name": "Страна 31",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 1235.612270618
+    },
+    {
+      "partnerCode": 32,
+      "country_name": "Страна 32",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 1604.7382684640002
+    },
+    {
+      "partnerCode": 32,
+      "country_name": "Страна 32",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 2878.098369197
+    },
+    {
+      "partnerCode": 36,
+      "country_name": "Страна 36",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 8517.194619082
+    },
+    {
+      "partnerCode": 36,
+      "country_name": "Страна 36",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 15608.115888878001
+    },
+    {
+      "partnerCode": 40,
+      "country_name": "Австрия",
+      "world_part": "Европа",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 17116.680539136
+    },
+    {
+      "partnerCode": 40,
+      "country_name": "Австрия",
+      "world_part": "Европа",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 12521.602204873001
+    },
+    {
+      "partnerCode": 44,
+      "country_name": "Страна 44",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 39.697620218
+    },
+    {
+      "partnerCode": 44,
+      "country_name": "Страна 44",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 525.852825678
+    },
+    {
+      "partnerCode": 48,
+      "country_name": "Страна 48",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 153.964165167
+    },
+    {
+      "partnerCode": 48,
+      "country_name": "Страна 48",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 572.251195589
+    },
+    {
+      "partnerCode": 50,
+      "country_name": "Страна 50",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 3310.413664155
+    },
+    {
+      "partnerCode": 50,
+      "country_name": "Страна 50",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 2102.475353147
+    },
+    {
+      "partnerCode": 51,
+      "country_name": "Страна 51",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 19.33837754
+    },
+    {
+      "partnerCode": 51,
+      "country_name": "Страна 51",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 354.152902789
+    },
+    {
+      "partnerCode": 52,
+      "country_name": "Страна 52",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 8.367047196
+    },
+    {
+      "partnerCode": 52,
+      "country_name": "Страна 52",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 42.39163739599999
+    },
+    {
+      "partnerCode": 56,
+      "country_name": "Бельгия",
+      "world_part": "Европа",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 37938.983087392
+    },
+    {
+      "partnerCode": 56,
+      "country_name": "Бельгия",
+      "world_part": "Европа",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 50023.996118014
+    },
+    {
+      "partnerCode": 60,
+      "country_name": "Страна 60",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 10.763737313
+    },
+    {
+      "partnerCode": 60,
+      "country_name": "Страна 60",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 22.582974694999997
+    },
+    {
+      "partnerCode": 64,
+      "country_name": "Страна 64",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.006166635
+    },
+    {
+      "partnerCode": 64,
+      "country_name": "Страна 64",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 6.616399152
+    },
+    {
+      "partnerCode": 68,
+      "country_name": "Страна 68",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 26.126771932999997
+    },
+    {
+      "partnerCode": 68,
+      "country_name": "Страна 68",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 166.04971512
+    },
+    {
+      "partnerCode": 70,
+      "country_name": "Страна 70",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 165.971338251
+    },
+    {
+      "partnerCode": 70,
+      "country_name": "Страна 70",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 141.32457006799999
+    },
+    {
+      "partnerCode": 72,
+      "country_name": "Страна 72",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 347.24338565
+    },
+    {
+      "partnerCode": 72,
+      "country_name": "Страна 72",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 62.007291027
+    },
+    {
+      "partnerCode": 74,
+      "country_name": "Страна 74",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.0048132059999999996
+    },
+    {
+      "partnerCode": 74,
+      "country_name": "Страна 74",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 0.020237
+    },
+    {
+      "partnerCode": 76,
+      "country_name": "Страна 76",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 15384.482409673
+    },
+    {
+      "partnerCode": 76,
+      "country_name": "Страна 76",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 13901.556531859
+    },
+    {
+      "partnerCode": 84,
+      "country_name": "Страна 84",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 26.995057256
+    },
+    {
+      "partnerCode": 84,
+      "country_name": "Страна 84",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 25.240556845
+    },
+    {
+      "partnerCode": 86,
+      "country_name": "Страна 86",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.1285145349999999
+    },
+    {
+      "partnerCode": 86,
+      "country_name": "Страна 86",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 0.083948
+    },
+    {
+      "partnerCode": 90,
+      "country_name": "Страна 90",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.39123046899999997
+    },
+    {
+      "partnerCode": 90,
+      "country_name": "Страна 90",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 1.0981667019999997
+    },
+    {
+      "partnerCode": 92,
+      "country_name": "Страна 92",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 18.797044467000003
+    },
+    {
+      "partnerCode": 92,
+      "country_name": "Страна 92",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 273.11870408199997
+    },
+    {
+      "partnerCode": 96,
+      "country_name": "Страна 96",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.4058786519999996
+    },
+    {
+      "partnerCode": 96,
+      "country_name": "Страна 96",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 17.331981424
+    },
+    {
+      "partnerCode": 100,
+      "country_name": "Болгария",
+      "world_part": "Европа",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 1691.370666758
+    },
+    {
+      "partnerCode": 100,
+      "country_name": "Болгария",
+      "world_part": "Европа",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 1917.95903964
+    },
+    {
+      "partnerCode": 104,
+      "country_name": "Страна 104",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 292.355447875
+    },
+    {
+      "partnerCode": 104,
+      "country_name": "Страна 104",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 128.587862121
+    },
+    {
+      "partnerCode": 108,
+      "country_name": "Страна 108",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 26.196114685
+    },
+    {
+      "partnerCode": 108,
+      "country_name": "Страна 108",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 2.4515853839999995
+    },
+    {
+      "partnerCode": 112,
+      "country_name": "Страна 112",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 1340.991293908
+    },
+    {
+      "partnerCode": 112,
+      "country_name": "Страна 112",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 1931.787494464
+    },
+    {
+      "partnerCode": 116,
+      "country_name": "Страна 116",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 746.690502903
+    },
+    {
+      "partnerCode": 116,
+      "country_name": "Страна 116",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 595.555372451
+    },
+    {
+      "partnerCode": 120,
+      "country_name": "Страна 120",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 27.903764053
+    },
+    {
+      "partnerCode": 120,
+      "country_name": "Страна 120",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 341.517075719
+    },
+    {
+      "partnerCode": 124,
+      "country_name": "Канада",
+      "world_part": "Америка",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 12778.717384175001
+    },
+    {
+      "partnerCode": 124,
+      "country_name": "Канада",
+      "world_part": "Америка",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 18271.195463108
+    },
+    {
+      "partnerCode": 132,
+      "country_name": "Страна 132",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.1368326739999997
+    },
+    {
+      "partnerCode": 132,
+      "country_name": "Страна 132",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 42.306288093
+    },
+    {
+      "partnerCode": 136,
+      "country_name": "Страна 136",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.059831234999999997
+    },
+    {
+      "partnerCode": 136,
+      "country_name": "Страна 136",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 62.867938855
+    },
+    {
+      "partnerCode": 140,
+      "country_name": "Страна 140",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 2.739557246
+    },
+    {
+      "partnerCode": 140,
+      "country_name": "Страна 140",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 2.160234573
+    },
+    {
+      "partnerCode": 144,
+      "country_name": "Страна 144",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 513.3635981799999
+    },
+    {
+      "partnerCode": 144,
+      "country_name": "Страна 144",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 315.37979254199996
+    },
+    {
+      "partnerCode": 148,
+      "country_name": "Страна 148",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.21640468200000001
+    },
+    {
+      "partnerCode": 148,
+      "country_name": "Страна 148",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 105.38348120500001
+    },
+    {
+      "partnerCode": 152,
+      "country_name": "Страна 152",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 5225.924922878
+    },
+    {
+      "partnerCode": 152,
+      "country_name": "Страна 152",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 6258.53888784
+    },
+    {
+      "partnerCode": 156,
+      "country_name": "Китай",
+      "world_part": "Азия",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 123153.846476797
+    },
+    {
+      "partnerCode": 156,
+      "country_name": "Китай",
+      "world_part": "Азия",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 78504.366073255
+    },
+    {
+      "partnerCode": 162,
+      "country_name": "Страна 162",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.0126819399999997
+    },
+    {
+      "partnerCode": 162,
+      "country_name": "Страна 162",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 0.010051000000000001
+    },
+    {
+      "partnerCode": 166,
+      "country_name": "Страна 166",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.011870239000000001
+    },
+    {
+      "partnerCode": 166,
+      "country_name": "Страна 166",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 0.33197800000000005
+    },
+    {
+      "partnerCode": 170,
+      "country_name": "Страна 170",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 1786.472272962
+    },
+    {
+      "partnerCode": 170,
+      "country_name": "Страна 170",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 2524.463938854
+    },
+    {
+      "partnerCode": 174,
+      "country_name": "Страна 174",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.4821424969999998
+    },
+    {
+      "partnerCode": 174,
+      "country_name": "Страна 174",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 0.6295308189999997
+    },
+    {
+      "partnerCode": 175,
+      "country_name": "Страна 175",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.032802
+    },
+    {
+      "partnerCode": 175,
+      "country_name": "Страна 175",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 28.121731
+    },
+    {
+      "partnerCode": 178,
+      "country_name": "Страна 178",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 18.332557855999998
+    },
+    {
+      "partnerCode": 178,
+      "country_name": "Страна 178",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 121.062997318
+    },
+    {
+      "partnerCode": 180,
+      "country_name": "Страна 180",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 2242.489951259
+    },
+    {
+      "partnerCode": 180,
+      "country_name": "Страна 180",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 251.309641462
+    },
+    {
+      "partnerCode": 184,
+      "country_name": "Страна 184",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.042809265
+    },
+    {
+      "partnerCode": 184,
+      "country_name": "Страна 184",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 0.2383401799999999
+    },
+    {
+      "partnerCode": 188,
+      "country_name": "Страна 188",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 1422.604741766
+    },
+    {
+      "partnerCode": 188,
+      "country_name": "Страна 188",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 318.52408548
+    },
+    {
+      "partnerCode": 191,
+      "country_name": "Хорватия",
+      "world_part": "Европа",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 740.194579857
+    },
+    {
+      "partnerCode": 191,
+      "country_name": "Хорватия",
+      "world_part": "Европа",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 1234.15574839
+    },
+    {
+      "partnerCode": 192,
+      "country_name": "Страна 192",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 209.472372761
+    },
+    {
+      "partnerCode": 192,
+      "country_name": "Страна 192",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 117.731805705
+    },
+    {
+      "partnerCode": 196,
+      "country_name": "Страна 196",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 191.191101703
+    },
+    {
+      "partnerCode": 196,
+      "country_name": "Страна 196",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 2713.130969727
+    },
+    {
+      "partnerCode": 203,
+      "country_name": "Чехия",
+      "world_part": "Европа",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 20413.955889727
+    },
+    {
+      "partnerCode": 203,
+      "country_name": "Чехия",
+      "world_part": "Европа",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 9310.415051721
+    },
+    {
+      "partnerCode": 204,
+      "country_name": "Страна 204",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 5.035464888999998
+    },
+    {
+      "partnerCode": 204,
+      "country_name": "Страна 204",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 109.16730836500001
+    },
+    {
+      "partnerCode": 208,
+      "country_name": "Дания",
+      "world_part": "Европа",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 48504.853511005
+    },
+    {
+      "partnerCode": 208,
+      "country_name": "Дания",
+      "world_part": "Европа",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 34223.578893767
+    },
+    {
+      "partnerCode": 212,
+      "country_name": "Страна 212",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 1.0622956669999994
+    },
+    {
+      "partnerCode": 212,
+      "country_name": "Страна 212",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 6.828978499
+    },
+    {
+      "partnerCode": 214,
+      "country_name": "Страна 214",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 804.5362390160001
+    },
+    {
+      "partnerCode": 214,
+      "country_name": "Страна 214",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 666.4044150779999
+    },
+    {
+      "partnerCode": 218,
+      "country_name": "Страна 218",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 1117.261609184
+    },
+    {
+      "partnerCode": 218,
+      "country_name": "Страна 218",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 1088.163272002
+    },
+    {
+      "partnerCode": 222,
+      "country_name": "Страна 222",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 63.585390997
+    },
+    {
+      "partnerCode": 222,
+      "country_name": "Страна 222",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 440.22596241
+    },
+    {
+      "partnerCode": 226,
+      "country_name": "Страна 226",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.3343179839999999
+    },
+    {
+      "partnerCode": 226,
+      "country_name": "Страна 226",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 43.271266264000005
+    },
+    {
+      "partnerCode": 231,
+      "country_name": "Страна 231",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 154.409868248
+    },
+    {
+      "partnerCode": 231,
+      "country_name": "Страна 231",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 237.823526889
+    },
+    {
+      "partnerCode": 232,
+      "country_name": "Страна 232",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.0526920139999998
+    },
+    {
+      "partnerCode": 232,
+      "country_name": "Страна 232",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 23.004150448
+    },
+    {
+      "partnerCode": 233,
+      "country_name": "Эстония",
+      "world_part": "Европа",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 49851.662428285
+    },
+    {
+      "partnerCode": 233,
+      "country_name": "Эстония",
+      "world_part": "Европа",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 51086.009348753
+    },
+    {
+      "partnerCode": 234,
+      "country_name": "Страна 234",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 22.152814074
+    },
+    {
+      "partnerCode": 234,
+      "country_name": "Страна 234",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 118.426898035
+    },
+    {
+      "partnerCode": 238,
+      "country_name": "Страна 238",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.22168751
+    },
+    {
+      "partnerCode": 238,
+      "country_name": "Страна 238",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 0.934548884
+    },
+    {
+      "partnerCode": 239,
+      "country_name": "Страна 239",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.022538538
+    },
+    {
+      "partnerCode": 242,
+      "country_name": "Страна 242",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 1.232116866999998
+    },
+    {
+      "partnerCode": 242,
+      "country_name": "Страна 242",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 40.99641458999999
+    },
+    {
+      "partnerCode": 251,
+      "country_name": "Страна 251",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 59276.882903146
+    },
+    {
+      "partnerCode": 251,
+      "country_name": "Страна 251",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 58208.785934421
+    },
+    {
+      "partnerCode": 258,
+      "country_name": "Страна 258",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.4710202059999999
+    },
+    {
+      "partnerCode": 258,
+      "country_name": "Страна 258",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 52.738990065
+    },
+    {
+      "partnerCode": 260,
+      "country_name": "Страна 260",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.0497218019999999
+    },
+    {
+      "partnerCode": 260,
+      "country_name": "Страна 260",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 10.385270097
+    },
+    {
+      "partnerCode": 262,
+      "country_name": "Страна 262",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 3.687321847
+    },
+    {
+      "partnerCode": 262,
+      "country_name": "Страна 262",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 60.26430824
+    },
+    {
+      "partnerCode": 266,
+      "country_name": "Страна 266",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 1.62689274
+    },
+    {
+      "partnerCode": 266,
+      "country_name": "Страна 266",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 59.491380403
+    },
+    {
+      "partnerCode": 268,
+      "country_name": "Страна 268",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 43.60450728199999
+    },
+    {
+      "partnerCode": 268,
+      "country_name": "Страна 268",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 384.37837306
+    },
+    {
+      "partnerCode": 270,
+      "country_name": "Страна 270",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.5403551709999987
+    },
+    {
+      "partnerCode": 270,
+      "country_name": "Страна 270",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 37.254985712999996
+    },
+    {
+      "partnerCode": 275,
+      "country_name": "Страна 275",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.6487203319999998
+    },
+    {
+      "partnerCode": 275,
+      "country_name": "Страна 275",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 16.255088678
+    },
+    {
+      "partnerCode": 276,
+      "country_name": "Германия",
+      "world_part": "Европа",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 249380.778942993
+    },
+    {
+      "partnerCode": 276,
+      "country_name": "Германия",
+      "world_part": "Европа",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 209671.080446552
+    },
+    {
+      "partnerCode": 288,
+      "country_name": "Страна 288",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 37.31220926899999
+    },
+    {
+      "partnerCode": 288,
+      "country_name": "Страна 288",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 1023.306481918
+    },
+    {
+      "partnerCode": 292,
+      "country_name": "Страна 292",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 1.0860658509999992
+    },
+    {
+      "partnerCode": 292,
+      "country_name": "Страна 292",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 434.22825101399997
+    },
+    {
+      "partnerCode": 296,
+      "country_name": "Страна 296",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.103219415
+    },
+    {
+      "partnerCode": 296,
+      "country_name": "Страна 296",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 1.5336934319999995
+    },
+    {
+      "partnerCode": 300,
+      "country_name": "Греция",
+      "world_part": "Европа",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 3256.41152706
+    },
+    {
+      "partnerCode": 300,
+      "country_name": "Греция",
+      "world_part": "Европа",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 6576.287814557
+    },
+    {
+      "partnerCode": 304,
+      "country_name": "Страна 304",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 16.850674648
+    },
+    {
+      "partnerCode": 304,
+      "country_name": "Страна 304",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 100.634976
+    },
+    {
+      "partnerCode": 308,
+      "country_name": "Страна 308",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 1.4246710569999996
+    },
+    {
+      "partnerCode": 308,
+      "country_name": "Страна 308",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 15.438015719
+    },
+    {
+      "partnerCode": 316,
+      "country_name": "Страна 316",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.491845667
+    },
+    {
+      "partnerCode": 316,
+      "country_name": "Страна 316",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 3.7088502959999983
+    },
+    {
+      "partnerCode": 320,
+      "country_name": "Страна 320",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 339.551248489
+    },
+    {
+      "partnerCode": 320,
+      "country_name": "Страна 320",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 452.60203837
+    },
+    {
+      "partnerCode": 324,
+      "country_name": "Страна 324",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.5681294289999995
+    },
+    {
+      "partnerCode": 324,
+      "country_name": "Страна 324",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 119.862905021
+    },
+    {
+      "partnerCode": 328,
+      "country_name": "Страна 328",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 70.66156801300001
+    },
+    {
+      "partnerCode": 328,
+      "country_name": "Страна 328",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 219.93547414100001
+    },
+    {
+      "partnerCode": 332,
+      "country_name": "Страна 332",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 2.694556617999999
+    },
+    {
+      "partnerCode": 332,
+      "country_name": "Страна 332",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 18.736201044999998
+    },
+    {
+      "partnerCode": 334,
+      "country_name": "Страна 334",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.000330844
+    },
+    {
+      "partnerCode": 336,
+      "country_name": "Страна 336",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.03174899
+    },
+    {
+      "partnerCode": 336,
+      "country_name": "Страна 336",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 2.1137936749999997
+    },
+    {
+      "partnerCode": 340,
+      "country_name": "Страна 340",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 426.794407079
+    },
+    {
+      "partnerCode": 340,
+      "country_name": "Страна 340",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 278.65256826
+    },
+    {
+      "partnerCode": 344,
+      "country_name": "Страна 344",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 3551.024054919
+    },
+    {
+      "partnerCode": 344,
+      "country_name": "Страна 344",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 8325.961943199
+    },
+    {
+      "partnerCode": 348,
+      "country_name": "Венгрия",
+      "world_part": "Европа",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 11127.466268273
+    },
+    {
+      "partnerCode": 348,
+      "country_name": "Венгрия",
+      "world_part": "Европа",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 8946.82547333
+    },
+    {
+      "partnerCode": 352,
+      "country_name": "Страна 352",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 426.72622863
+    },
+    {
+      "partnerCode": 352,
+      "country_name": "Страна 352",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 1503.4317632
+    },
+    {
+      "partnerCode": 360,
+      "country_name": "Страна 360",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 4334.49785647
+    },
+    {
+      "partnerCode": 360,
+      "country_name": "Страна 360",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 6219.24841571
+    },
+    {
+      "partnerCode": 364,
+      "country_name": "Страна 364",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 97.526557622
+    },
+    {
+      "partnerCode": 364,
+      "country_name": "Страна 364",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 2594.744275487
+    },
+    {
+      "partnerCode": 368,
+      "country_name": "Страна 368",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.885011308999997
+    },
+    {
+      "partnerCode": 368,
+      "country_name": "Страна 368",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 1209.052129523
+    },
+    {
+      "partnerCode": 372,
+      "country_name": "Ирландия",
+      "world_part": "Европа",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 15153.365461295
+    },
+    {
+      "partnerCode": 372,
+      "country_name": "Ирландия",
+      "world_part": "Европа",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 7570.898278333
+    },
+    {
+      "partnerCode": 376,
+      "country_name": "Страна 376",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 2425.142145745
+    },
+    {
+      "partnerCode": 376,
+      "country_name": "Страна 376",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 5312.700160994
+    },
+    {
+      "partnerCode": 380,
+      "country_name": "Италия",
+      "world_part": "Европа",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 51275.03047094
+    },
+    {
+      "partnerCode": 380,
+      "country_name": "Италия",
+      "world_part": "Европа",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 51008.0902125
+    },
+    {
+      "partnerCode": 384,
+      "country_name": "Страна 384",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 71.529311207
+    },
+    {
+      "partnerCode": 384,
+      "country_name": "Страна 384",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 269.926678013
+    },
+    {
+      "partnerCode": 388,
+      "country_name": "Страна 388",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 60.512058704
+    },
+    {
+      "partnerCode": 388,
+      "country_name": "Страна 388",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 130.009132335
+    },
+    {
+      "partnerCode": 392,
+      "country_name": "Япония",
+      "world_part": "Азия",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 31104.987411352
+    },
+    {
+      "partnerCode": 392,
+      "country_name": "Япония",
+      "world_part": "Азия",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 28225.047324402
+    },
+    {
+      "partnerCode": 398,
+      "country_name": "Страна 398",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 6471.345679862
+    },
+    {
+      "partnerCode": 398,
+      "country_name": "Страна 398",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 5154.615208054
+    },
+    {
+      "partnerCode": 400,
+      "country_name": "Страна 400",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 246.44929074200002
+    },
+    {
+      "partnerCode": 400,
+      "country_name": "Страна 400",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 2099.275685168
+    },
+    {
+      "partnerCode": 404,
+      "country_name": "Страна 404",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 517.958758838
+    },
+    {
+      "partnerCode": 404,
+      "country_name": "Страна 404",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 999.501108157
+    },
+    {
+      "partnerCode": 408,
+      "country_name": "Страна 408",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 7.5057053929999995
+    },
+    {
+      "partnerCode": 408,
+      "country_name": "Страна 408",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 18.985444913
+    },
+    {
+      "partnerCode": 410,
+      "country_name": "Южная Корея",
+      "world_part": "Азия",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 20046.313692421
+    },
+    {
+      "partnerCode": 410,
+      "country_name": "Южная Корея",
+      "world_part": "Азия",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 18047.40710636
+    },
+    {
+      "partnerCode": 414,
+      "country_name": "Страна 414",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 74.225754596
+    },
+    {
+      "partnerCode": 414,
+      "country_name": "Страна 414",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 1291.877079695
+    },
+    {
+      "partnerCode": 417,
+      "country_name": "Страна 417",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 5.140540754
+    },
+    {
+      "partnerCode": 417,
+      "country_name": "Страна 417",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 372.816090892
+    },
+    {
+      "partnerCode": 418,
+      "country_name": "Страна 418",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 30.75733584
+    },
+    {
+      "partnerCode": 418,
+      "country_name": "Страна 418",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 112.379476419
+    },
+    {
+      "partnerCode": 422,
+      "country_name": "Страна 422",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 17.519342279999996
+    },
+    {
+      "partnerCode": 422,
+      "country_name": "Страна 422",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 984.371240198
+    },
+    {
+      "partnerCode": 426,
+      "country_name": "Страна 426",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.025647188
+    },
+    {
+      "partnerCode": 426,
+      "country_name": "Страна 426",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 1.5832726729999997
+    },
+    {
+      "partnerCode": 428,
+      "country_name": "Латвия",
+      "world_part": "Европа",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 6703.883067627
+    },
+    {
+      "partnerCode": 428,
+      "country_name": "Латвия",
+      "world_part": "Европа",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 15200.174805335
+    },
+    {
+      "partnerCode": 430,
+      "country_name": "Страна 430",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 25.270232886
+    },
+    {
+      "partnerCode": 430,
+      "country_name": "Страна 430",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 49.980575774
+    },
+    {
+      "partnerCode": 434,
+      "country_name": "Страна 434",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 24.945684557000003
+    },
+    {
+      "partnerCode": 434,
+      "country_name": "Страна 434",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 257.377697167
+    },
+    {
+      "partnerCode": 440,
+      "country_name": "Литва",
+      "world_part": "Европа",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 9135.482432968
+    },
+    {
+      "partnerCode": 440,
+      "country_name": "Литва",
+      "world_part": "Европа",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 12986.059354782
+    },
+    {
+      "partnerCode": 442,
+      "country_name": "Страна 442",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 1884.216825774
+    },
+    {
+      "partnerCode": 442,
+      "country_name": "Страна 442",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 920.865870902
+    },
+    {
+      "partnerCode": 446,
+      "country_name": "Страна 446",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 72.706063181
+    },
+    {
+      "partnerCode": 446,
+      "country_name": "Страна 446",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 55.009075965
+    },
+    {
+      "partnerCode": 450,
+      "country_name": "Страна 450",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 82.92512445
+    },
+    {
+      "partnerCode": 450,
+      "country_name": "Страна 450",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 62.367066903
+    },
+    {
+      "partnerCode": 454,
+      "country_name": "Страна 454",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 30.770492689
+    },
+    {
+      "partnerCode": 454,
+      "country_name": "Страна 454",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 61.876618797999996
+    },
+    {
+      "partnerCode": 458,
+      "country_name": "Малайзия",
+      "world_part": "Азия",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 8164.950511428
+    },
+    {
+      "partnerCode": 458,
+      "country_name": "Малайзия",
+      "world_part": "Азия",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 4396.982426009
+    },
+    {
+      "partnerCode": 462,
+      "country_name": "Страна 462",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 5.157094980999999
+    },
+    {
+      "partnerCode": 462,
+      "country_name": "Страна 462",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 66.207243037
+    },
+    {
+      "partnerCode": 466,
+      "country_name": "Страна 466",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 6.229939757999998
+    },
+    {
+      "partnerCode": 466,
+      "country_name": "Страна 466",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 247.065376478
+    },
+    {
+      "partnerCode": 470,
+      "country_name": "Страна 470",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 479.807965909
+    },
+    {
+      "partnerCode": 470,
+      "country_name": "Страна 470",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 615.625161313
+    },
+    {
+      "partnerCode": 478,
+      "country_name": "Страна 478",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 59.485366825999996
+    },
+    {
+      "partnerCode": 478,
+      "country_name": "Страна 478",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 164.39949763799999
+    },
+    {
+      "partnerCode": 480,
+      "country_name": "Страна 480",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 190.218764105
+    },
+    {
+      "partnerCode": 480,
+      "country_name": "Страна 480",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 491.05957629700004
+    },
+    {
+      "partnerCode": 484,
+      "country_name": "Страна 484",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 5553.974584692
+    },
+    {
+      "partnerCode": 484,
+      "country_name": "Страна 484",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 8161.2882424790005
+    },
+    {
+      "partnerCode": 490,
+      "country_name": "Страна 490",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 12488.969474647
+    },
+    {
+      "partnerCode": 490,
+      "country_name": "Страна 490",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 6877.806163893
+    },
+    {
+      "partnerCode": 496,
+      "country_name": "Страна 496",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 58.392897989
+    },
+    {
+      "partnerCode": 496,
+      "country_name": "Страна 496",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 261.342916544
+    },
+    {
+      "partnerCode": 498,
+      "country_name": "Страна 498",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 56.444140671999996
+    },
+    {
+      "partnerCode": 498,
+      "country_name": "Страна 498",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 320.065898464
+    },
+    {
+      "partnerCode": 499,
+      "country_name": "Страна 499",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 3.219997694999999
+    },
+    {
+      "partnerCode": 499,
+      "country_name": "Страна 499",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 44.846283457
+    },
+    {
+      "partnerCode": 500,
+      "country_name": "Страна 500",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.034238015999999996
+    },
+    {
+      "partnerCode": 500,
+      "country_name": "Страна 500",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 0.125704142
+    },
+    {
+      "partnerCode": 504,
+      "country_name": "Страна 504",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 794.552590209
+    },
+    {
+      "partnerCode": 504,
+      "country_name": "Страна 504",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 3926.513012977
+    },
+    {
+      "partnerCode": 508,
+      "country_name": "Страна 508",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 291.719119033
+    },
+    {
+      "partnerCode": 508,
+      "country_name": "Страна 508",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 170.77899364799998
+    },
+    {
+      "partnerCode": 512,
+      "country_name": "Страна 512",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 99.06610722799999
+    },
+    {
+      "partnerCode": 512,
+      "country_name": "Страна 512",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 821.861019976
+    },
+    {
+      "partnerCode": 516,
+      "country_name": "Страна 516",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 41.30815256499999
+    },
+    {
+      "partnerCode": 516,
+      "country_name": "Страна 516",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 307.293776089
+    },
+    {
+      "partnerCode": 520,
+      "country_name": "Страна 520",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.3446114619999998
+    },
+    {
+      "partnerCode": 520,
+      "country_name": "Страна 520",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 0.12704800000000002
+    },
+    {
+      "partnerCode": 524,
+      "country_name": "Страна 524",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 18.672048682999996
+    },
+    {
+      "partnerCode": 524,
+      "country_name": "Страна 524",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 31.404426301999997
+    },
+    {
+      "partnerCode": 527,
+      "country_name": "Страна 527",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 0.001007
+    },
+    {
+      "partnerCode": 528,
+      "country_name": "Нидерланды",
+      "world_part": "Европа",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 82725.129610223
+    },
+    {
+      "partnerCode": 528,
+      "country_name": "Нидерланды",
+      "world_part": "Европа",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 107036.137632478
+    },
+    {
+      "partnerCode": 530,
+      "country_name": "Страна 530",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 26.813095999999998
+    },
+    {
+      "partnerCode": 530,
+      "country_name": "Страна 530",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 109.027765
+    },
+    {
+      "partnerCode": 531,
+      "country_name": "Страна 531",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.8154875839999999
+    },
+    {
+      "partnerCode": 531,
+      "country_name": "Страна 531",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 87.123814764
+    },
+    {
+      "partnerCode": 533,
+      "country_name": "Страна 533",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 27.872890105
+    },
+    {
+      "partnerCode": 533,
+      "country_name": "Страна 533",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 91.147571735
+    },
+    {
+      "partnerCode": 534,
+      "country_name": "Страна 534",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.0676282869999997
+    },
+    {
+      "partnerCode": 534,
+      "country_name": "Страна 534",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 13.527737992999999
+    },
+    {
+      "partnerCode": 535,
+      "country_name": "Страна 535",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.0014211979999998999
+    },
+    {
+      "partnerCode": 535,
+      "country_name": "Страна 535",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 0.2746362189999999
+    },
+    {
+      "partnerCode": 540,
+      "country_name": "Страна 540",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 56.173818712999996
+    },
+    {
+      "partnerCode": 540,
+      "country_name": "Страна 540",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 65.441268963
+    },
+    {
+      "partnerCode": 548,
+      "country_name": "Страна 548",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.0067667429999999995
+    },
+    {
+      "partnerCode": 548,
+      "country_name": "Страна 548",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 1.0340739949999995
+    },
+    {
+      "partnerCode": 554,
+      "country_name": "Страна 554",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 769.101108673
+    },
+    {
+      "partnerCode": 554,
+      "country_name": "Страна 554",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 2199.669210176
+    },
+    {
+      "partnerCode": 558,
+      "country_name": "Страна 558",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 240.182672819
+    },
+    {
+      "partnerCode": 558,
+      "country_name": "Страна 558",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 28.83758138
+    },
+    {
+      "partnerCode": 562,
+      "country_name": "Страна 562",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 11.148593656
+    },
+    {
+      "partnerCode": 562,
+      "country_name": "Страна 562",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 14.873965645999998
+    },
+    {
+      "partnerCode": 566,
+      "country_name": "Страна 566",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 59.816935511
+    },
+    {
+      "partnerCode": 566,
+      "country_name": "Страна 566",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 1419.160737439
+    },
+    {
+      "partnerCode": 568,
+      "country_name": "Страна 568",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 1393.711675166
+    },
+    {
+      "partnerCode": 568,
+      "country_name": "Страна 568",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 1719.671897617
+    },
+    {
+      "partnerCode": 570,
+      "country_name": "Страна 570",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.005971425000000001
+    },
+    {
+      "partnerCode": 570,
+      "country_name": "Страна 570",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 0.091493
+    },
+    {
+      "partnerCode": 574,
+      "country_name": "Страна 574",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.00205
+    },
+    {
+      "partnerCode": 574,
+      "country_name": "Страна 574",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 0.001439
+    },
+    {
+      "partnerCode": 577,
+      "country_name": "Страна 577",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.0203191339999999
+    },
+    {
+      "partnerCode": 577,
+      "country_name": "Страна 577",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 1.4668069539999997
+    },
+    {
+      "partnerCode": 579,
+      "country_name": "Страна 579",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 53268.436813048
+    },
+    {
+      "partnerCode": 579,
+      "country_name": "Страна 579",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 49424.889761588
+    },
+    {
+      "partnerCode": 580,
+      "country_name": "Страна 580",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.047841832
+    },
+    {
+      "partnerCode": 580,
+      "country_name": "Страна 580",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 0.8716418779999999
+    },
+    {
+      "partnerCode": 581,
+      "country_name": "Страна 581",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.4840345839999997
+    },
+    {
+      "partnerCode": 581,
+      "country_name": "Страна 581",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 0.3805231649999999
+    },
+    {
+      "partnerCode": 583,
+      "country_name": "Страна 583",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.0083853349999999
+    },
+    {
+      "partnerCode": 583,
+      "country_name": "Страна 583",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 0.2381726279999999
+    },
+    {
+      "partnerCode": 584,
+      "country_name": "Страна 584",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.14741016099999998
+    },
+    {
+      "partnerCode": 584,
+      "country_name": "Страна 584",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 50.146469119
+    },
+    {
+      "partnerCode": 585,
+      "country_name": "Страна 585",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.022206317
+    },
+    {
+      "partnerCode": 585,
+      "country_name": "Страна 585",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 0.404970897
+    },
+    {
+      "partnerCode": 586,
+      "country_name": "Страна 586",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 1308.845013084
+    },
+    {
+      "partnerCode": 586,
+      "country_name": "Страна 586",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 2100.024065526
+    },
+    {
+      "partnerCode": 591,
+      "country_name": "Страна 591",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 414.321791368
+    },
+    {
+      "partnerCode": 591,
+      "country_name": "Страна 591",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 366.575946071
+    },
+    {
+      "partnerCode": 598,
+      "country_name": "Страна 598",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 204.09239974399998
+    },
+    {
+      "partnerCode": 598,
+      "country_name": "Страна 598",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 123.66896879000001
+    },
+    {
+      "partnerCode": 600,
+      "country_name": "Страна 600",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 22.802128960999998
+    },
+    {
+      "partnerCode": 600,
+      "country_name": "Страна 600",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 160.617807119
+    },
+    {
+      "partnerCode": 604,
+      "country_name": "Страна 604",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 4987.246825794
+    },
+    {
+      "partnerCode": 604,
+      "country_name": "Страна 604",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 2053.409496714
+    },
+    {
+      "partnerCode": 608,
+      "country_name": "Страна 608",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 2704.121171857
+    },
+    {
+      "partnerCode": 608,
+      "country_name": "Страна 608",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 4498.119724356
+    },
+    {
+      "partnerCode": 612,
+      "country_name": "Страна 612",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.0016978589999999
+    },
+    {
+      "partnerCode": 612,
+      "country_name": "Страна 612",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 0.131506
+    },
+    {
+      "partnerCode": 616,
+      "country_name": "Польша",
+      "world_part": "Европа",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 38000.939219185
+    },
+    {
+      "partnerCode": 616,
+      "country_name": "Польша",
+      "world_part": "Европа",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 45381.395675614
+    },
+    {
+      "partnerCode": 620,
+      "country_name": "Португалия",
+      "world_part": "Европа",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 8778.700603932
+    },
+    {
+      "partnerCode": 620,
+      "country_name": "Португалия",
+      "world_part": "Европа",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 6340.401892095
+    },
+    {
+      "partnerCode": 624,
+      "country_name": "Страна 624",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.275371249
+    },
+    {
+      "partnerCode": 624,
+      "country_name": "Страна 624",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 1.2061606279999997
+    },
+    {
+      "partnerCode": 626,
+      "country_name": "Страна 626",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.245793396
+    },
+    {
+      "partnerCode": 626,
+      "country_name": "Страна 626",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 78.354760722
+    },
+    {
+      "partnerCode": 634,
+      "country_name": "Страна 634",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 1029.296536294
+    },
+    {
+      "partnerCode": 634,
+      "country_name": "Страна 634",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 1064.256792491
+    },
+    {
+      "partnerCode": 637,
+      "country_name": "Страна 637",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 0.001613
+    },
+    {
+      "partnerCode": 642,
+      "country_name": "Румыния",
+      "world_part": "Европа",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 4638.077072386
+    },
+    {
+      "partnerCode": 642,
+      "country_name": "Румыния",
+      "world_part": "Европа",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 4411.082477975
+    },
+    {
+      "partnerCode": 643,
+      "country_name": "Россия",
+      "world_part": "Европа",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 229654.950998835
+    },
+    {
+      "partnerCode": 643,
+      "country_name": "Россия",
+      "world_part": "Европа",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 127758.151224011
+    },
+    {
+      "partnerCode": 646,
+      "country_name": "Страна 646",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 40.719965468
+    },
+    {
+      "partnerCode": 646,
+      "country_name": "Страна 646",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 71.056515918
+    },
+    {
+      "partnerCode": 652,
+      "country_name": "Страна 652",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 5.806543666
+    },
+    {
+      "partnerCode": 652,
+      "country_name": "Страна 652",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 0.2439013519999998
+    },
+    {
+      "partnerCode": 654,
+      "country_name": "Страна 654",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.0675135459999997
+    },
+    {
+      "partnerCode": 654,
+      "country_name": "Страна 654",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 0.094231
+    },
+    {
+      "partnerCode": 659,
+      "country_name": "Страна 659",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.0626354339999996
+    },
+    {
+      "partnerCode": 659,
+      "country_name": "Страна 659",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 13.638591584
+    },
+    {
+      "partnerCode": 660,
+      "country_name": "Страна 660",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.0171558159999996
+    },
+    {
+      "partnerCode": 660,
+      "country_name": "Страна 660",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 20.24113201
+    },
+    {
+      "partnerCode": 662,
+      "country_name": "Страна 662",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.1956580379999995
+    },
+    {
+      "partnerCode": 662,
+      "country_name": "Страна 662",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 66.479254525
+    },
+    {
+      "partnerCode": 666,
+      "country_name": "Страна 666",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.000971982
+    },
+    {
+      "partnerCode": 666,
+      "country_name": "Страна 666",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 10.550997408
+    },
+    {
+      "partnerCode": 670,
+      "country_name": "Страна 670",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.1462377739999998
+    },
+    {
+      "partnerCode": 670,
+      "country_name": "Страна 670",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 30.858779817000002
+    },
+    {
+      "partnerCode": 674,
+      "country_name": "Страна 674",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 23.288774163
+    },
+    {
+      "partnerCode": 674,
+      "country_name": "Страна 674",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 69.843785266
+    },
+    {
+      "partnerCode": 678,
+      "country_name": "Страна 678",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.127296788
+    },
+    {
+      "partnerCode": 678,
+      "country_name": "Страна 678",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 0.574867598
+    },
+    {
+      "partnerCode": 682,
+      "country_name": "Страна 682",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 684.37398417
+    },
+    {
+      "partnerCode": 682,
+      "country_name": "Страна 682",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 11186.039927075999
+    },
+    {
+      "partnerCode": 686,
+      "country_name": "Страна 686",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 12.346127474999998
+    },
+    {
+      "partnerCode": 686,
+      "country_name": "Страна 686",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 475.231581506
+    },
+    {
+      "partnerCode": 688,
+      "country_name": "Страна 688",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 754.411102645
+    },
+    {
+      "partnerCode": 688,
+      "country_name": "Страна 688",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 945.666819088
+    },
+    {
+      "partnerCode": 690,
+      "country_name": "Страна 690",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 45.908894413
+    },
+    {
+      "partnerCode": 690,
+      "country_name": "Страна 690",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 85.825200648
+    },
+    {
+      "partnerCode": 694,
+      "country_name": "Страна 694",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 20.064581515999997
+    },
+    {
+      "partnerCode": 694,
+      "country_name": "Страна 694",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 41.200982197
+    },
+    {
+      "partnerCode": 699,
+      "country_name": "Страна 699",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 9504.753876516
+    },
+    {
+      "partnerCode": 699,
+      "country_name": "Страна 699",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 14054.011651506
+    },
+    {
+      "partnerCode": 702,
+      "country_name": "Сингапур",
+      "world_part": "Азия",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 4629.837367171
+    },
+    {
+      "partnerCode": 702,
+      "country_name": "Сингапур",
+      "world_part": "Азия",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 6541.172214209
+    },
+    {
+      "partnerCode": 703,
+      "country_name": "Словакия",
+      "world_part": "Европа",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 7981.029944822
+    },
+    {
+      "partnerCode": 703,
+      "country_name": "Словакия",
+      "world_part": "Европа",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 3611.489467034
+    },
+    {
+      "partnerCode": 704,
+      "country_name": "Страна 704",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 5928.385168087
+    },
+    {
+      "partnerCode": 704,
+      "country_name": "Страна 704",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 3035.608175682
+    },
+    {
+      "partnerCode": 705,
+      "country_name": "Словения",
+      "world_part": "Европа",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 2606.150285024
+    },
+    {
+      "partnerCode": 705,
+      "country_name": "Словения",
+      "world_part": "Европа",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 2198.242480961
+    },
+    {
+      "partnerCode": 706,
+      "country_name": "Страна 706",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.0137209519999998
+    },
+    {
+      "partnerCode": 706,
+      "country_name": "Страна 706",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 5.888998879999998
+    },
+    {
+      "partnerCode": 710,
+      "country_name": "Страна 710",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 5007.119091797
+    },
+    {
+      "partnerCode": 710,
+      "country_name": "Страна 710",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 10253.832803788
+    },
+    {
+      "partnerCode": 716,
+      "country_name": "Страна 716",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 44.850274303
+    },
+    {
+      "partnerCode": 716,
+      "country_name": "Страна 716",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 170.987701862
+    },
+    {
+      "partnerCode": 724,
+      "country_name": "Испания",
+      "world_part": "Европа",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 29538.241225127
+    },
+    {
+      "partnerCode": 724,
+      "country_name": "Испания",
+      "world_part": "Европа",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 34425.025515261
+    },
+    {
+      "partnerCode": 728,
+      "country_name": "Страна 728",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.0138154699999998
+    },
+    {
+      "partnerCode": 728,
+      "country_name": "Страна 728",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 1.0154043679999998
+    },
+    {
+      "partnerCode": 729,
+      "country_name": "Страна 729",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 35.154179745
+    },
+    {
+      "partnerCode": 729,
+      "country_name": "Страна 729",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 103.452672906
+    },
+    {
+      "partnerCode": 732,
+      "country_name": "Страна 732",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 9.80436236
+    },
+    {
+      "partnerCode": 736,
+      "country_name": "Страна 736",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 36.954381
+    },
+    {
+      "partnerCode": 736,
+      "country_name": "Страна 736",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 365.740441
+    },
+    {
+      "partnerCode": 740,
+      "country_name": "Страна 740",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 1.4791960719999993
+    },
+    {
+      "partnerCode": 740,
+      "country_name": "Страна 740",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 106.430081037
+    },
+    {
+      "partnerCode": 748,
+      "country_name": "Страна 748",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 140.34798151
+    },
+    {
+      "partnerCode": 748,
+      "country_name": "Страна 748",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 5.081190045
+    },
+    {
+      "partnerCode": 752,
+      "country_name": "Швеция",
+      "world_part": "Европа",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 193344.915168082
+    },
+    {
+      "partnerCode": 752,
+      "country_name": "Швеция",
+      "world_part": "Европа",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 187518.932363486
+    },
+    {
+      "partnerCode": 757,
+      "country_name": "Страна 757",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 18162.675564381
+    },
+    {
+      "partnerCode": 757,
+      "country_name": "Страна 757",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 19931.33602021
+    },
+    {
+      "partnerCode": 760,
+      "country_name": "Страна 760",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 8.336765873
+    },
+    {
+      "partnerCode": 760,
+      "country_name": "Страна 760",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 670.497316339
+    },
+    {
+      "partnerCode": 762,
+      "country_name": "Страна 762",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.5587553339999998
+    },
+    {
+      "partnerCode": 762,
+      "country_name": "Страна 762",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 45.321084178
+    },
+    {
+      "partnerCode": 764,
+      "country_name": "Таиланд",
+      "world_part": "Азия",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 7264.177704937
+    },
+    {
+      "partnerCode": 764,
+      "country_name": "Таиланд",
+      "world_part": "Азия",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 5775.723131925
+    },
+    {
+      "partnerCode": 768,
+      "country_name": "Страна 768",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 6.196981264
+    },
+    {
+      "partnerCode": 768,
+      "country_name": "Страна 768",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 557.677044377
+    },
+    {
+      "partnerCode": 772,
+      "country_name": "Страна 772",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.2047446929999994
+    },
+    {
+      "partnerCode": 772,
+      "country_name": "Страна 772",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 2.151703
+    },
+    {
+      "partnerCode": 776,
+      "country_name": "Страна 776",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.014251546
+    },
+    {
+      "partnerCode": 776,
+      "country_name": "Страна 776",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 0.3573692829999999
+    },
+    {
+      "partnerCode": 780,
+      "country_name": "Страна 780",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 215.75613661300002
+    },
+    {
+      "partnerCode": 780,
+      "country_name": "Страна 780",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 98.846295376
+    },
+    {
+      "partnerCode": 784,
+      "country_name": "Страна 784",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 325.386358275
+    },
+    {
+      "partnerCode": 784,
+      "country_name": "Страна 784",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 13483.908697825
+    },
+    {
+      "partnerCode": 788,
+      "country_name": "Страна 788",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 341.43459920099997
+    },
+    {
+      "partnerCode": 788,
+      "country_name": "Страна 788",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 1497.367512016
+    },
+    {
+      "partnerCode": 792,
+      "country_name": "Страна 792",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 13049.94686093
+    },
+    {
+      "partnerCode": 792,
+      "country_name": "Страна 792",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 21008.57629281
+    },
+    {
+      "partnerCode": 795,
+      "country_name": "Страна 795",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 3.6122915019999997
+    },
+    {
+      "partnerCode": 795,
+      "country_name": "Страна 795",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 251.292782962
+    },
+    {
+      "partnerCode": 796,
+      "country_name": "Страна 796",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.5522675419999998
+    },
+    {
+      "partnerCode": 796,
+      "country_name": "Страна 796",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 38.702857267
+    },
+    {
+      "partnerCode": 798,
+      "country_name": "Страна 798",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.071752578
+    },
+    {
+      "partnerCode": 798,
+      "country_name": "Страна 798",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 1.0079029519999998
+    },
+    {
+      "partnerCode": 800,
+      "country_name": "Страна 800",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 65.899577728
+    },
+    {
+      "partnerCode": 800,
+      "country_name": "Страна 800",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 194.806475934
+    },
+    {
+      "partnerCode": 804,
+      "country_name": "Страна 804",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 1717.118823755
+    },
+    {
+      "partnerCode": 804,
+      "country_name": "Страна 804",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 8442.002155316
+    },
+    {
+      "partnerCode": 807,
+      "country_name": "Страна 807",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 209.92747697299998
+    },
+    {
+      "partnerCode": 807,
+      "country_name": "Страна 807",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 172.994156785
+    },
+    {
+      "partnerCode": 818,
+      "country_name": "Страна 818",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 772.95388638
+    },
+    {
+      "partnerCode": 818,
+      "country_name": "Страна 818",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 9134.459185253
+    },
+    {
+      "partnerCode": 826,
+      "country_name": "Великобритания",
+      "world_part": "Европа",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 59451.373507969
+    },
+    {
+      "partnerCode": 826,
+      "country_name": "Великобритания",
+      "world_part": "Европа",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 93212.287918252
+    },
+    {
+      "partnerCode": 834,
+      "country_name": "Страна 834",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 273.88473849
+    },
+    {
+      "partnerCode": 834,
+      "country_name": "Страна 834",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 922.274017011
+    },
+    {
+      "partnerCode": 837,
+      "country_name": "Страна 837",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 5496.482510249
+    },
+    {
+      "partnerCode": 839,
+      "country_name": "Страна 839",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 1234.148751972
+    },
+    {
+      "partnerCode": 839,
+      "country_name": "Страна 839",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 3707.698513368
+    },
+    {
+      "partnerCode": 842,
+      "country_name": "Страна 842",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 65563.616729793
+    },
+    {
+      "partnerCode": 842,
+      "country_name": "Страна 842",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 126103.718635848
+    },
+    {
+      "partnerCode": 854,
+      "country_name": "Страна 854",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 3.6652698009999995
+    },
+    {
+      "partnerCode": 854,
+      "country_name": "Страна 854",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 158.694854136
+    },
+    {
+      "partnerCode": 858,
+      "country_name": "Страна 858",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 650.832659975
+    },
+    {
+      "partnerCode": 858,
+      "country_name": "Страна 858",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 1691.223080357
+    },
+    {
+      "partnerCode": 860,
+      "country_name": "Страна 860",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 95.622154379
+    },
+    {
+      "partnerCode": 860,
+      "country_name": "Страна 860",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 876.127337295
+    },
+    {
+      "partnerCode": 862,
+      "country_name": "Страна 862",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 101.583505721
+    },
+    {
+      "partnerCode": 862,
+      "country_name": "Страна 862",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 1111.7777607
+    },
+    {
+      "partnerCode": 876,
+      "country_name": "Страна 876",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.0574435699999998
+    },
+    {
+      "partnerCode": 876,
+      "country_name": "Страна 876",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 0.144543
+    },
+    {
+      "partnerCode": 882,
+      "country_name": "Страна 882",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.35526348399999996
+    },
+    {
+      "partnerCode": 882,
+      "country_name": "Страна 882",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 2.492772818
+    },
+    {
+      "partnerCode": 887,
+      "country_name": "Страна 887",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 0.5323185509999997
+    },
+    {
+      "partnerCode": 887,
+      "country_name": "Страна 887",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 327.977897577
+    },
+    {
+      "partnerCode": 891,
+      "country_name": "Страна 891",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 17.670705
+    },
+    {
+      "partnerCode": 891,
+      "country_name": "Страна 891",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 71.509985
+    },
+    {
+      "partnerCode": 894,
+      "country_name": "Страна 894",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 104.442747064
+    },
+    {
+      "partnerCode": 894,
+      "country_name": "Страна 894",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 624.732542213
+    },
+    {
+      "partnerCode": 899,
+      "country_name": "Страна 899",
+      "world_part": "Неизвестно",
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 39195.822010706
+    },
+    {
+      "partnerCode": 899,
+      "country_name": "Страна 899",
+      "world_part": "Неизвестно",
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 50655.407029244
+    }
+  ],
+  "top_countries_recent": [
+    {
+      "partnerCode": 276,
+      "country_name": "Германия",
+      "Импорт": 57635.366624429,
+      "Экспорт": 48662.776749206,
+      "Сальдо": -8972.589875222999,
+      "Общий оборот": 106298.143373635
+    },
+    {
+      "partnerCode": 752,
+      "country_name": "Швеция",
+      "Импорт": 47033.709499324,
+      "Экспорт": 40577.68531459,
+      "Сальдо": -6456.024184734,
+      "Общий оборот": 87611.394813914
+    },
+    {
+      "partnerCode": 156,
+      "country_name": "Китай",
+      "Импорт": 36035.225015712,
+      "Экспорт": 19249.103669675,
+      "Сальдо": -16786.121346036998,
+      "Общий оборот": 55284.328685387
+    },
+    {
+      "partnerCode": 842,
+      "country_name": "Страна 842",
+      "Импорт": 16373.177235191,
+      "Экспорт": 33173.175160108,
+      "Сальдо": 16799.997924917003,
+      "Общий оборот": 49546.35239529901
+    },
+    {
+      "partnerCode": 643,
+      "country_name": "Россия",
+      "Импорт": 34539.052642908,
+      "Экспорт": 14687.878499225,
+      "Сальдо": -19851.174143682998,
+      "Общий оборот": 49226.931142133
+    },
+    {
+      "partnerCode": 528,
+      "country_name": "Нидерланды",
+      "Импорт": 18750.821779195,
+      "Экспорт": 26317.706150154,
+      "Сальдо": 7566.884370959,
+      "Общий оборот": 45068.527929349
+    },
+    {
+      "partnerCode": 579,
+      "country_name": "Страна 579",
+      "Импорт": 18249.659066809003,
+      "Экспорт": 10517.50534783,
+      "Сальдо": -7732.153718979003,
+      "Общий оборот": 28767.164414639003
+    },
+    {
+      "partnerCode": 233,
+      "country_name": "Эстония",
+      "Импорт": 13732.381127147,
+      "Экспорт": 13456.262717863,
+      "Сальдо": -276.11840928400125,
+      "Общий оборот": 27188.64384501
+    },
+    {
+      "partnerCode": 616,
+      "country_name": "Польша",
+      "Импорт": 12424.283687783,
+      "Экспорт": 11501.195043224,
+      "Сальдо": -923.0886445590004,
+      "Общий оборот": 23925.478731007
+    },
+    {
+      "partnerCode": 826,
+      "country_name": "Великобритания",
+      "Импорт": 9603.929650147,
+      "Экспорт": 14174.636572278,
+      "Сальдо": 4570.706922130999,
+      "Общий оборот": 23778.566222424997
+    }
+  ],
+  "russia_data": [
+    {
+      "period": 2019,
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 10007.141716992
+    },
+    {
+      "period": 2019,
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 4016.721186744
+    },
+    {
+      "period": 2020,
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 6675.076402258
+    },
+    {
+      "period": 2020,
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 3416.376213796
+    },
+    {
+      "period": 2021,
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 10051.971186454999
+    },
+    {
+      "period": 2021,
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 4361.438956396
+    },
+    {
+      "period": 2022,
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 6462.11028337
+    },
+    {
+      "period": 2022,
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 2180.649594242
+    },
+    {
+      "period": 2023,
+      "flow_name": "Импорт",
+      "trade_value_mln_usd": 1342.753053833
+    },
+    {
+      "period": 2023,
+      "flow_name": "Экспорт",
+      "trade_value_mln_usd": 712.6925480470001
+    }
+  ],
+  "last_year_balance": -525.8620915489882,
+  "last_year": 2023,
+  "export_last": 82567.75267281401,
+  "import_last": 83093.614764363
+}

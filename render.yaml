@@ -1,0 +1,11 @@
+services:
+  - name: finland-trade-dashboard
+    type: web
+    runtime: python
+    repo: https://github.com/<MY_GH_USER>/finland-trade-dashboard
+    branch: main
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "gunicorn --bind 0.0.0.0:$PORT app:server"
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.11" 
